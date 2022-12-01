@@ -24,10 +24,10 @@
           height="20"
           width="20"
         />
-        Hi, I’m GrahamSH-LLK
+        Hi, I’m FFS28
       </h2>
       <p>
-        I’m GrahamSH-LLK, Scratcher, Coder, and tech lover. There’s not much
+        I’m FFS28, Scratcher, Coder, and tech lover. There’s not much
         here right now, but more will be coming soon!
       </p>
     </div>
