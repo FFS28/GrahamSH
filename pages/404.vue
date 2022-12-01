@@ -11,12 +11,12 @@
         md:text-6xl
       "
     >
-      404
+      Whoops! 404
     </h1>
 
     <div class="prose prose-indigo">
-      <h2>Sorry, we couldn't find that page!</h2>
-      <h4><nuxt-link to="/">Go home</nuxt-link></h4>
+      <h2>Sorry, we couldn't find this page!</h2>
+      <h4><nuxt-link to="/">Get Back To home</nuxt-link></h4>
     </div>
   </main>
 </template>
