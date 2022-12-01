@@ -27,8 +27,8 @@
         Hi, I’m FFS28
       </h2>
       <p>
-        I’m FFS28, Scratcher, Coder, and tech lover. There’s not much
-        here right now, but more will be coming soon!
+        I’m FFS28, Scratcher, Coder, and tech lover.
+        There’s not much here right now, but more will be coming soon!
       </p>
     </div>
   </main>
